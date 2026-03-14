@@ -8,15 +8,15 @@
       "locked": {
         "lastModified": 1773489714,
         "narHash": "sha256-+tD/Jg/FA4SR74zZhppmYyGL6zvvUnBT9QyzsyBrX4A=",
-        "ref": "refs/heads/main",
+        "owner": "deepwatrcreatur",
+        "repo": "agents-status-tray",
         "rev": "935da7eec6cb454bf95e0389423f523756bd0a68",
-        "revCount": 1,
-        "type": "git",
-        "url": "file:///home/deepwatrcreatur/flakes/agents-status-tray"
+        "type": "github"
       },
       "original": {
-        "type": "git",
-        "url": "file:///home/deepwatrcreatur/flakes/agents-status-tray"
+        "owner": "deepwatrcreatur",
+        "repo": "agents-status-tray",
+        "type": "github"
       }
     },
     "flake-utils": {
