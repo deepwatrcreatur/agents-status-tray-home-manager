@@ -6,11 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1773528359,
-        "narHash": "sha256-l3/S6vkIDlDAr9xxBoSR2jWkzRwDp3ORrYM2j49D5MI=",
+        "lastModified": 1773529787,
+        "narHash": "sha256-x8/2FcSVmptWxbDC9lGk626GjdXOexUjDfgz/jc2FFA=",
         "owner": "deepwatrcreatur",
         "repo": "agents-status-tray",
-        "rev": "64397ed1381dafd7aeeed00c91bf9534774b812a",
+        "rev": "d74358c2d380a7ab0819066c5e4504bd857ab104",
         "type": "github"
       },
       "original": {
