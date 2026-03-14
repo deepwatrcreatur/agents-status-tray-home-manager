@@ -6,8 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 0,
+        "lastModified": 1773489714,
         "narHash": "sha256-+tD/Jg/FA4SR74zZhppmYyGL6zvvUnBT9QyzsyBrX4A=",
+        "ref": "refs/heads/main",
+        "rev": "935da7eec6cb454bf95e0389423f523756bd0a68",
+        "revCount": 1,
         "type": "git",
         "url": "file:///home/deepwatrcreatur/flakes/agents-status-tray"
       },
